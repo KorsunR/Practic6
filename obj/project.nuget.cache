@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIciVQRVA/75KQfc+Y0/GTdID5WtgccNynDZKOu4l+CZsCc6oeRfRxrw+OxpGnoZBmdFszyiH2RnT82BbFwoxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rkors\\OneDrive\\Рабочий стол\\text-conventer-platon-master\\текстовый конвентер.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkors\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
